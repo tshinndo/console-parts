@@ -1,0 +1,8 @@
+# Directory
+Parts/Debug/
+Parts/Parts/Debug/
+
+# Files
+*.sdf
+*.TMP
+*.suo
